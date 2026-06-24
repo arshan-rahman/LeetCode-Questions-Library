@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
