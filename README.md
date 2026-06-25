@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
