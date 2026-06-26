@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
+| [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
