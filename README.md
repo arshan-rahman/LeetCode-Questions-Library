@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
+| [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
+| [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
