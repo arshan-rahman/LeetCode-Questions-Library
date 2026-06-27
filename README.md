@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1920-build-array-from-permutation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3925-concatenate-array-with-reverse) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3783-mirror-distance-of-an-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
 ## Hash Table
