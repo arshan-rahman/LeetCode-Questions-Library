@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
