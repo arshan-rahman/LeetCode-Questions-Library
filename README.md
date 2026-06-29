@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1108-defanging-an-ip-address) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3110-score-of-a-string) |
