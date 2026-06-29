@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
+| [3467-transform-array-by-parity](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3467-transform-array-by-parity) |
 ## Queue
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
