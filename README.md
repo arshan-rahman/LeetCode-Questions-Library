@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2396-strictly-palindromic-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
