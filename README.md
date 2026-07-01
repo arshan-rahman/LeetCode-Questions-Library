@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1470-shuffle-the-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3945-digit-frequency-score) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1108-defanging-an-ip-address) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1009-complement-of-base-10-integer) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
