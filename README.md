@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
+| [1470-shuffle-the-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
