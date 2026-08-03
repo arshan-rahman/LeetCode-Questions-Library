@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2396-strictly-palindromic-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2469-convert-the-temperature) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
