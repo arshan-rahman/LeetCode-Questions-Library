@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3925-concatenate-array-with-reverse) |
