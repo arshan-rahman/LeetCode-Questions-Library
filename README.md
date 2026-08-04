@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2418-sort-the-people](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3731-find-missing-elements) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2418-sort-the-people](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3280-convert-date-to-binary) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0242-valid-anagram) |
+| [2418-sort-the-people](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3731-find-missing-elements) |
 ## Queue
