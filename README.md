@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/arshan-rahman/LeetCode-Questions-Library/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
